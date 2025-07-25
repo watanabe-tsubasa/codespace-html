@@ -1,1 +1,3 @@
 # codespace-html
+
+ただのHTML置いておくだけでは切ないので、supabaseのrealtime-listenerでリアルタイムな掲示板にしてみた
